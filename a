@@ -1,0 +1,60 @@
+[33mcommit e6fd897ce92b9b3495ce0012fc6a3e17743db369[m[33m ([m[1;36mHEAD -> [m[1;32malex_task77[m[33m)[m
+Author: Rudikevich <Rudikevich.a@gmail.com>
+Date:   Sat Aug 24 11:28:00 2019 +0300
+
+    New Index HTML
+
+[33mcommit 4459c557cdb9c5efb0f72e34607559c2d8c36cf5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Rudikevich <Rudikevich.a@gmail.com>
+Date:   Mon Oct 1 16:47:06 2018 +0300
+
+    Lesson2
+
+[33mcommit 50444d228af07c4eeb42ee8023c3be3802c56ea4[m
+Author: 0987654321blest <Rudikevich.a@gmail.com>
+Date:   Wed Sep 26 15:58:31 2018 +0300
+
+    lesson1
+
+[33mcommit f19e8162b13549efb34540f88cf7f573d6200fb1[m
+Merge: f3e6151 386c937
+Author: MarySampir <ma.sampir@andersenlab.com>
+Date:   Sun Sep 23 20:53:32 2018 +0300
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit f3e6151f68aa3fe634b225c97869d353927b117b[m
+Author: MarySampir <ma.sampir@andersenlab.com>
+Date:   Sun Sep 23 20:53:13 2018 +0300
+
+    fix
+
+[33mcommit 386c9379b7bfd58454443d3215dda1e0a99bb4ad[m
+Merge: 4110ead ff5cdbd
+Author: MarySaphpir <fani15@mail.ru>
+Date:   Sun Sep 23 20:52:06 2018 +0300
+
+    Merge pull request #1 from MarySaphpir/lesson1
+    
+    lesson 1
+
+[33mcommit ff5cdbd3b46b9b39042994b6e3f6d52294648da3[m
+Author: MarySampir <ma.sampir@andersenlab.com>
+Date:   Sun Sep 23 20:51:30 2018 +0300
+
+    lesson 1
+
+[33mcommit 4110eadd4242a45edf21a64235b996dc50b8da23[m
+Author: MarySampir <ma.sampir@andersenlab.com>
+Date:   Sun Sep 23 20:39:52 2018 +0300
+
+    readme.md
+
+[33mcommit a0bdd935ba4587dcca8c8671882459e9970ed388[m
+Author: MarySaphpir <fani15@mail.ru>
+Date:   Sun Sep 23 20:31:25 2018 +0300
+
+    Initial commit
